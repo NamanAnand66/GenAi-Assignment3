@@ -1,0 +1,7 @@
+/venv
+/utils/__pycache__
+.env
+README.md
+.DS_Store
+*.pyc
+__pycache__/
